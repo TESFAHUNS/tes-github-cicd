@@ -19,7 +19,7 @@ public class TesGithubCicdActionsApplication {
 }
 
 
-//echo "# tes-github-cicd" >> README.md
+//echo "# tes-github-cicd" >> README.mdgig
 //git init
 //git add README.md
 //git commit -m "first commit"
